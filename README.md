@@ -4,8 +4,11 @@ I'm a passionate backend developer with a mid-level expertise in various technol
 About Me
 Name: Viktor
 Location: Ukraine
+
 Email: vitia.kols@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/viktor-kolesnyk-3213a01bb/
+
 Technical Skills
 Programming Languages
 Python

@@ -2,14 +2,6 @@ Hi there! 👋
 
 I'm a passionate backend developer with a mid-level expertise in various technologies and frameworks. I enjoy building scalable and efficient backend systems, and I'm always eager to learn new skills and improve my craft.
 
-About Me
-Name: Viktor
-
-Location: Ukraine
-
-Email: vitia.kols@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/viktor-kolesnyk-3213a01bb/
 
 Technical Skills
 
